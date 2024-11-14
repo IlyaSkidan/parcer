@@ -1,10 +1,10 @@
 import re
 
 # Замените этот адрес на ваш MAC-адрес
-mac_address = "50ebf692cc03 , 00155d020c11 , 0a002700000c , 161333693da1 , 161333693db1 , 141333693db1 , 00155d4c9a9d"
+mac_address = "your_mac_address"
 
 # Путь к вашему .dat файлу
-file_path = 'C:/Users/Илья/Downloads/License_new.dat'
+file_path = 'your_path'
 
 # Читаем содержимое файла
 with open(file_path, 'r') as file:
